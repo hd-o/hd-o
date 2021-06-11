@@ -1,5 +1,5 @@
-### 👋 Hi there, I...
+### 👋 Hi there
 
-- 💹 work on financial technologies
-- 📖 study investment management
-- 📫 respond at my [social profiles](https://hadriandeoliveira.com)
+- 💹 I work on financial technologies
+- 📖 I study investment management
+- 📫 I respond at my [social profiles](https://hadriandeoliveira.com)
