@@ -1,5 +1,8 @@
-### 👋 Hi there
+# About Me
+- 💻 Software Engineer
+- 🌍 Digital Nomad
 
-- 💹 I work on financial technologies
-- 📖 I study investment management
-- 📫 I respond at my [social profiles](https://hadriandeoliveira.com)
+# Research Areas
+- 💹 Financial Markets
+- 🏛 Software Architecture
+- 🎎 Behavioral Economics
