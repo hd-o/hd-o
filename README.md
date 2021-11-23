@@ -1,3 +1,3 @@
 ### 👋 Hey there!
 
-More about me at [hadriandeoliveira.com](https://hadriandeoliveira.com)
+There's more about me at [hadriandeoliveira.com](https://hadriandeoliveira.com)
