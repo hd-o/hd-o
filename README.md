@@ -6,3 +6,7 @@
 - 💹 Financial Markets
 - 🏛 Software Architecture
 - 🎎 Behavioral Economics
+
+---
+
+[hadriandeoliveira.com](https://hadriandeoliveira.com)
