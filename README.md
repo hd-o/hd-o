@@ -1,12 +1,3 @@
-# About Me
-- 💻 Software Engineer
-- 🌍 Digital Nomad
+**👋 Hey there!**
 
-# Research Areas
-- 💹 Financial Markets
-- 🏛 Software Architecture
-- 🎎 Behavioral Economics
-
----
-
-[hadriandeoliveira.com](https://hadriandeoliveira.com)
+More about me at [hadriandeoliveira.com](https://hadriandeoliveira.com)
